@@ -11,4 +11,3 @@ ns1     IN  A       10.0.10.5
 jenkins     IN  A       10.0.10.4
 www     IN  A       10.0.10.4
 @     IN  A       10.0.10.4
-bledny     IN  A       10.0.10.999
